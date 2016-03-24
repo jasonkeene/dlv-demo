@@ -1,0 +1,5 @@
+click==6.3
+doitlive==2.4.0
+playitagainsam==0.4.0
+psutil==4.1.0
+six==1.10.0

@@ -1,0 +1,1619 @@
+{
+  "events": [
+    {
+      "act": "OPEN", 
+      "size": [
+        135, 
+        64
+      ], 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.17093896865844727
+    }, 
+    {
+      "act": "WRITE", 
+      "data": " ____________________________________ \r\n/ Design and programming are human   \\\r\n| activities; forget that and all is |\r\n\\ lost. --Bjarne Stroustrup          /\r\n ------------------------------------ \r\n    \\      ,,,         ,,,\r\n     \\    ;\"   ^;     ;'   \",\r\n      \\  ;    s$$$$$$$s     ;\r\n       \\ ,  ss$$$$$$$$$$s  ,'\r\n          ;s$$$$$$$$$$$$$$$\r\n          $$$$$$$$$$$$$$$$$$\r\n         $$$$P\"\"Y$$$Y\"\"W$$$$$\r\n         $$$$  p\"$$$\"q  $$$$$\r\n         $$$$  .$$$$$.  $$$$\r\n          $$DcaU$$$$$$$$$$$\r\n           \"Y$$$\"*\"$$$Y\"\r\n               \"$b.$$\"\r\n                 \"\"\"\r\n\u001b[?1034h\r\r\n\u001b]0;jasonkeene@wat: ~/projects/dlv-demo\u0007\u001b[01;32mjasonkeene@wat.local\u001b[00m \r\r\n\u001b[01;34m~/projects/dlv-demo\u001b[00m\r\r\n$ ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": ". .envrc", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.013099908828735352
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r\n\u001b]0;jasonkeene@wat: ~/projects/dlv-demo\u0007\u001b[01;32mjasonkeene@wat.local\u001b[00m \r\r\n\u001b[01;34m~/projects/dlv-demo\u001b[00m\r\r\n$ ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "cd src", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.011710882186889648
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r\n\u001b]0;jasonkeene@wat: ~/projects/dlv-demo/src\u0007\u001b[01;32mjasonkeene@wat.local\u001b[00m \r\r\n\u001b[01;34m~/projects/dlv-demo/src\u001b[00m\r\r\n$ ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "la", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.004697084426879883
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "total 8\r\ndrwxr-xr-x   4 jasonkeene  staff  136 Mar 24 07:34 \u001b[34m.\u001b[39;49m\u001b[0m/\r\ndrwxr-xr-x  11 jasonkeene  staff  374 Mar 24 08:04 \u001b[34m..\u001b[39;49m\u001b[0m/\r\ndrwxr-xr-x   4 jasonkeene  staff  136 Mar 24 07:48 \u001b[34mdemo\u001b[39;49m\u001b[0m/\r\n-rw-r--r--   1 jasonkeene  staff  383 Mar 24 06:50 main.go\r\n\r\r\n\u001b]0;jasonkeene@wat: ~/projects/dlv-demo/src\u0007\u001b[01;32mjasonkeene@wat.local\u001b[00m \r\r\n\u001b[01;34m~/projects/dlv-demo/src\u001b[00m\r\r\n$ ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "go run main.go 1 2 3 ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.2588009834289551
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "summing: [1 2 3]\r\ntotal: 7\r\nsleeping\r\nwaiting for sleep to finish\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 1.999222993850708
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "done\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.015570878982543945
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r\n\u001b]0;jasonkeene@wat: ~/projects/dlv-demo/src\u0007\u001b[01;32mjasonkeene@wat.local\u001b[00m \r\r\n\u001b[01;34m~/projects/dlv-demo/src\u001b[00m\r\r\n$ ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "cd demo", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.011711835861206055
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r\n\u001b]0;jasonkeene@wat: ~/projects/dlv-demo/src/demo\u0007\u001b[01;32mjasonkeene@wat.local\u001b[00m \r\r\n\u001b[01;34m~/projects/dlv-demo/src/demo\u001b[00m\r\r\n$ ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "la", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0032072067260742188
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "total 16\r\ndrwxr-xr-x  4 jasonkeene  staff  136 Mar 24 07:48 \u001b[34m.\u001b[39;49m\u001b[0m/\r\ndrwxr-xr-x  4 jasonkeene  staff  136 Mar 24 07:34 \u001b[34m..\u001b[39;49m\u001b[0m/\r\n-rw-r--r--  1 jasonkeene  staff  229 Mar 24 07:41 demo.go\r\n-rw-r--r--  1 jasonkeene  staff  227 Mar 24 06:51 demo_test.go\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0007069110870361328
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r\n\u001b]0;jasonkeene@wat: ~/projects/dlv-demo/src/demo\u0007\u001b[01;32mjasonkeene@wat.local\u001b[00m \r\r\n\u001b[01;34m~/projects/dlv-demo/src/demo\u001b[00m\r\r\n$ ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "cd ..", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.011987924575805664
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r\n\u001b]0;jasonkeene@wat: ~/projects/dlv-demo/src\u0007\u001b[01;32mjasonkeene@wat.local\u001b[00m \r\r\n\u001b[01;34m~/projects/dlv-demo/src\u001b[00m\r\r\n$ ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "dlv debug", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.3780350685119629
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Type 'help' for list of commands.\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u0004", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "exit\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.02152705192565918
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r\n\u001b]0;jasonkeene@wat: ~/projects/dlv-demo/src\u0007\u001b[01;32mjasonkeene@wat.local\u001b[00m \r\r\n\u001b[01;34m~/projects/dlv-demo/src\u001b[00m\r\r\n$ ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "dlv trace SumStrings", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.38929104804992676
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "summing: []\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.05907487869262695
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "> demo.SumStrings([]string len: 0, cap: 0, [], 12) ./demo/demo.go:5 (hits goroutine(1):1 total:1) (PC: 0x57018)\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.05569291114807129
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "> demo.SumStrings.func1(*0) ./demo/demo.go:6 (hits goroutine(1):1 total:1) (PC: 0x571c0)\r\ntotal: 1\r\nsleeping\r\nwaiting for sleep to finish\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 1.9985120296478271
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "done\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0015590190887451172
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Process 15117 has exited with status 0\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.011636018753051758
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r\n\u001b]0;jasonkeene@wat: ~/projects/dlv-demo/src\u0007\u001b[01;32mjasonkeene@wat.local\u001b[00m \r\r\n\u001b[01;34m~/projects/dlv-demo/src\u001b[00m\r\r\n$ ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "go build -o main", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.3102149963378906
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r\n\u001b]0;jasonkeene@wat: ~/projects/dlv-demo/src\u0007\u001b[01;32mjasonkeene@wat.local\u001b[00m \r\r\n\u001b[01;34m~/projects/dlv-demo/src\u001b[00m\r\r\n$ ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "dlv exec ./", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\t", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "m", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\t", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "ain", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.06877303123474121
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Type 'help' for list of commands.\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u0004", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "exit\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.020270109176635742
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r\n\u001b]0;jasonkeene@wat: ~/projects/dlv-demo/src\u0007\u001b[01;32mjasonkeene@wat.local\u001b[00m \r\r\n\u001b[01;34m~/projects/dlv-demo/src\u001b[00m\r\r\n$ ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "dlv attach", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.009836912155151367
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Error: you must provide a PID\r\nUsage:\r\n  dlv attach pid [flags]\r\n\r\nFlags:\r\n  -h, --help[=false]: help for attach\r\n\r\nGlobal Flags:\r\n      --accept-multiclient[=false]: Allows a headless server to accept multiple client connection. Note that the server API is not reentrant and clients will have to coordinate\r\n      --build-flags=\"\": Build flags, to be passed to the compiler.\r\n      --headless[=false]: Run debug server only, in headless mode.\r\n      --init=\"\": Init file, executed by the terminal client.\r\n  -l, --listen=\"localhost:0\": Debugging server listen address.\r\n      --log[=false]: Enable debugging server logging.\r\n\r\n\r\r\n\u001b]0;jasonkeene@wat: ~/projects/dlv-demo/src\u0007\u001b[01;32mjasonkeene@wat.local\u001b[00m \r\r\n\u001b[01;34m~/projects/dlv-demo/src\u001b[00m\r\r\n$ ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "cd demo", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.011823177337646484
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r\n\u001b]0;jasonkeene@wat: ~/projects/dlv-demo/src/demo\u0007\u001b[01;32mjasonkeene@wat.local\u001b[00m \r\r\n\u001b[01;34m~/projects/dlv-demo/src/demo\u001b[00m\r\r\n$ ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "ls ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[K", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\b\u001b[K", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "a", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.004935026168823242
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "total 16\r\ndrwxr-xr-x  4 jasonkeene  staff  136 Mar 24 07:48 \u001b[34m.\u001b[39;49m\u001b[0m/\r\ndrwxr-xr-x  5 jasonkeene  staff  170 Mar 24 08:05 \u001b[34m..\u001b[39;49m\u001b[0m/\r\n-rw-r--r--  1 jasonkeene  staff  229 Mar 24 07:41 demo.go\r\n-rw-r--r--  1 jasonkeene  staff  227 Mar 24 06:51 demo_test.go\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0065419673919677734
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r\n\u001b]0;jasonkeene@wat: ~/projects/dlv-demo/src/demo\u0007\u001b[01;32mjasonkeene@wat.local\u001b[00m \r\r\n\u001b[01;34m~/projects/dlv-demo/src/demo\u001b[00m\r\r\n$ ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "dlv test", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.5422351360321045
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Type 'help' for list of commands.\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "help", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\nThe following commands are available:\r\n    help ------------------------ Prints the help message.\r\n    break (alias: b) ------------ break [name] <linespec>\r\n    trace (alias: t) ------------ Set tracepoint, takes the same arguments as break.\r\n    restart (alias: r) ---------- Restart process.\r\n    continue (alias: c) --------- Run until breakpoint or program termination.\r\n    step (alias: s) ------------- Single step through program.\r\n    step-instruction (alias: si)  Single step a single cpu instruction.\r\n    next (alias: n) ------------- Step over to next source line.\r\n    threads --------------------- Print out info for every traced thread.\r\n    thread (alias: tr) ---------- Switch to the specified thread.\r\n    clear ----------------------- Deletes breakpoint.\r\n    clearall -------------------- clearall [<linespec>]. Deletes all breakpoints. If <linespec> is provided, only matching breakpoints will be deleted.\r\n    goroutines ------------------ goroutines [-u (default: user location)|-r (runtime location)|-g (go statement location)] Print out info for every goroutine.\r\n    goroutine ------------------- Sets current goroutine.\r\n    breakpoints (alias: bp) ----- Print out info for active breakpoints.\r\n    print (alias: p) ------------ Evaluate a variable.\r\n    set ------------------------- Changes the value of a variable.\r\n    sources --------------------- Print list of source files, optionally filtered by a regexp.\r\n    funcs ----------------------- Print list of functions, optionally filtered by a regexp.\r\n    types ----------------------- Print list of types, optionally filtered by a regexp.\r\n    args ------------------------ Print function arguments, optionally filtered by a regexp.\r\n    locals ---------------------- Print function locals, optionally filtered by a regexp.\r\n    vars ------------------------ Print package variables, optionally filtered by a regexp.\r\n    regs ------------------------ Print contents of CPU registers.\r\n    exit (alias: quit | q) ------ Exit the debugger.\r\n    list (alias: ls) ------------ list <linespec>.  Show source around current point or provided linespec.\r\n    stack (alias: bt) ----------- stack [<depth>] [-full]. Prints stack.\r\n    frame ----------------------- Sets current stack frame (0 is the top of the stack)\r\n    source ---------------------- Executes a file containing a list of delve commands\r\n    disassemble (alias: disass) - Displays disassembly of specific function or address range: disassemble [-a <start> <end>] [-l <locspec>]\r\n    on -------------------------- on <breakpoint name or id> <command>. Executes command when the specified breakpoint is hit (supported commands: print <expression>, stack [<depth>] [-full] and goroutine)\r\n    condition (alias: cond) ----- cond <breakpoint name or id> <boolean expression>. Specifies that the breakpoint or tracepoint should break only if the boolean expression is true.\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "c", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.05712294578552246
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "> demo_test.TestSumStrings() ./demo_test.go:13 (PC: 0x7e044)\r\n\u001b[34m     8:\t\u001b[0m\r\n\u001b[34m     9:\t\u001b[0mfunc TestSumStrings(t *testing.T) {\r\n\u001b[34m    10:\t\u001b[0m\tsum := demo.SumStrings(\"1\", \"2\", \"3\")\r\n\u001b[34m    11:\t\u001b[0m\tif sum != 6 {\r\n\u001b[34m    12:\t\u001b[0m\t\truntime.Breakpoint()\r\n\u001b[34m=>  13:\t\u001b[0m\t\tt.Errorf(\"expecting sum to be 6 was %d\", sum)\r\n\u001b[34m    14:\t\u001b[0m\t}\r\n\u001b[34m    15:\t\u001b[0m}\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "p sum", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0061571598052978516
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "7\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0558009147644043
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Process restarted with PID 15172\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "b start demo.go:5", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.002093076705932617
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Breakpoint start set at 0x7dd28 for demo.SumStrings() ./demo.go:5\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "bp", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0003409385681152344
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Breakpoint start at 0x7dd28 for demo.SumStrings() ./demo.go:5 (0)\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "c", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.07813096046447754
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "> [start] demo.SumStrings() ./demo.go:5 (hits goroutine(5):1 total:1) (PC: 0x7dd28)\r\n\u001b[34m     1:\t\u001b[0mpackage demo\r\n\u001b[34m     2:\t\u001b[0m\r\n\u001b[34m     3:\t\u001b[0mimport \"strconv\"\r\n\u001b[34m     4:\t\u001b[0m\r\n\u001b[34m=>   5:\t\u001b[0mfunc SumStrings(nums ...string) (total int) {\r\n\u001b[34m     6:\t\u001b[0m\tdefer func() {\r\n\u001b[34m     7:\t\u001b[0m\t\ttotal += 1\r\n\u001b[34m     8:\t\u001b[0m\t}()\r\n\u001b[34m     9:\t\u001b[0m\tfor _, num := range nums {\r\n\u001b[34m    10:\t\u001b[0m\t\tnumber, err := strconv.Atoi(num)\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "args", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.005964994430541992
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "nums = []string len: 3, cap: 3, [\"1\",\"2\",\"3\"]\r\ntotal = 0\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "locals", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.006150007247924805
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "err = error nil\r\nnum = \"\"\r\nnumber = 0\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "p nums", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0049839019775390625
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "[]string len: 3, cap: 3, [\"1\",\"2\",\"3\"]\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "s", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.04128599166870117
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "> demo.SumStrings() ./demo.go:8 (PC: 0x7dd47)\r\n\u001b[34m     3:\t\u001b[0mimport \"strconv\"\r\n\u001b[34m     4:\t\u001b[0m\r\n\u001b[34m     5:\t\u001b[0mfunc SumStrings(nums ...string) (total int) {\r\n\u001b[34m     6:\t\u001b[0m\tdefer func() {\r\n\u001b[34m     7:\t\u001b[0m\t\ttotal += 1\r\n\u001b[34m=>   8:\t\u001b[0m\t}()\r\n\u001b[34m     9:\t\u001b[0m\tfor _, num := range nums {\r\n\u001b[34m    10:\t\u001b[0m\t\tnumber, err := strconv.Atoi(num)\r\n\u001b[34m    11:\t\u001b[0m\t\tif err == nil {\r\n\u001b[34m    12:\t\u001b[0m\t\t\ttotal += number\r\n\u001b[34m    13:\t\u001b[0m\t\t}\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.16442298889160156
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "> demo.SumStrings() ./demo.go:9 (PC: 0x7dd75)\r\n\u001b[34m     4:\t\u001b[0m\r\n\u001b[34m     5:\t\u001b[0mfunc SumStrings(nums ...string) (total int) {\r\n\u001b[34m     6:\t\u001b[0m\tdefer func() {\r\n\u001b[34m     7:\t\u001b[0m\t\ttotal += 1\r\n\u001b[34m     8:\t\u001b[0m\t}()\r\n\u001b[34m=>   9:\t\u001b[0m\tfor _, num := range nums {\r\n\u001b[34m    10:\t\u001b[0m\t\tnumber, err := strconv.Atoi(num)\r\n\u001b[34m    11:\t\u001b[0m\t\tif err == nil {\r\n\u001b[34m    12:\t\u001b[0m\t\t\ttotal += number\r\n\u001b[34m    13:\t\u001b[0m\t\t}\r\n\u001b[34m    14:\t\u001b[0m\t}\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.1629500389099121
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "> demo.SumStrings() ./demo.go:10 (PC: 0x7de0f)\r\n\u001b[34m     5:\t\u001b[0mfunc SumStrings(nums ...string) (total int) {\r\n\u001b[34m     6:\t\u001b[0m\tdefer func() {\r\n\u001b[34m     7:\t\u001b[0m\t\ttotal += 1\r\n\u001b[34m     8:\t\u001b[0m\t}()\r\n\u001b[34m     9:\t\u001b[0m\tfor _, num := range nums {\r\n\u001b[34m=>  10:\t\u001b[0m\t\tnumber, err := strconv.Atoi(num)\r\n\u001b[34m    11:\t\u001b[0m\t\tif err == nil {\r\n\u001b[34m    12:\t\u001b[0m\t\t\ttotal += number\r\n\u001b[34m    13:\t\u001b[0m\t\t}\r\n\u001b[34m    14:\t\u001b[0m\t}\r\n\u001b[34m    15:\t\u001b[0m\treturn\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "p number", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.005970954895019531
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "0\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.17015504837036133
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "> demo.SumStrings() ./demo.go:11 (PC: 0x7de45)\r\n\u001b[34m     6:\t\u001b[0m\tdefer func() {\r\n\u001b[34m     7:\t\u001b[0m\t\ttotal += 1\r\n\u001b[34m     8:\t\u001b[0m\t}()\r\n\u001b[34m     9:\t\u001b[0m\tfor _, num := range nums {\r\n\u001b[34m    10:\t\u001b[0m\t\tnumber, err := strconv.Atoi(num)\r\n\u001b[34m=>  11:\t\u001b[0m\t\tif err == nil {\r\n\u001b[34m    12:\t\u001b[0m\t\t\ttotal += number\r\n\u001b[34m    13:\t\u001b[0m\t\t}\r\n\u001b[34m    14:\t\u001b[0m\t}\r\n\u001b[34m    15:\t\u001b[0m\treturn\r\n\u001b[34m    16:\t\u001b[0m}\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "p number", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.004681110382080078
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "1\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "b return 15", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0010151863098144531
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Breakpoint return set at 0x7dea1 for demo.SumStrings() ./demo.go:15\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "bp", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.00032711029052734375
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Breakpoint start at 0x7dd28 for demo.SumStrings() ./demo.go:5 (1)\r\nBreakpoint return at 0x7dea1 for demo.SumStrings() ./demo.go:15 (0)\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "c", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.07718300819396973
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "> [return] demo.SumStrings() ./demo.go:15 (hits goroutine(5):1 total:1) (PC: 0x7dea1)\r\n\u001b[34m    10:\t\u001b[0m\t\tnumber, err := strconv.Atoi(num)\r\n\u001b[34m    11:\t\u001b[0m\t\tif err == nil {\r\n\u001b[34m    12:\t\u001b[0m\t\t\ttotal += number\r\n\u001b[34m    13:\t\u001b[0m\t\t}\r\n\u001b[34m    14:\t\u001b[0m\t}\r\n\u001b[34m=>  15:\t\u001b[0m\treturn\r\n\u001b[34m    16:\t\u001b[0m}\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "p total", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.005240917205810547
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "6\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.16329216957092285
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "> demo.SumStrings.func1() ./demo.go:7 (PC: 0x7ded4)\r\n\u001b[34m     2:\t\u001b[0m\r\n\u001b[34m     3:\t\u001b[0mimport \"strconv\"\r\n\u001b[34m     4:\t\u001b[0m\r\n\u001b[34m     5:\t\u001b[0mfunc SumStrings(nums ...string) (total int) {\r\n\u001b[34m     6:\t\u001b[0m\tdefer func() {\r\n\u001b[34m=>   7:\t\u001b[0m\t\ttotal += 1\r\n\u001b[34m     8:\t\u001b[0m\t}()\r\n\u001b[34m     9:\t\u001b[0m\tfor _, num := range nums {\r\n\u001b[34m    10:\t\u001b[0m\t\tnumber, err := strconv.Atoi(num)\r\n\u001b[34m    11:\t\u001b[0m\t\tif err == nil {\r\n\u001b[34m    12:\t\u001b[0m\t\t\ttotal += number\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.1639549732208252
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "> demo.SumStrings.func1() ./demo.go:8 (PC: 0x7def0)\r\n\u001b[34m     3:\t\u001b[0mimport \"strconv\"\r\n\u001b[34m     4:\t\u001b[0m\r\n\u001b[34m     5:\t\u001b[0mfunc SumStrings(nums ...string) (total int) {\r\n\u001b[34m     6:\t\u001b[0m\tdefer func() {\r\n\u001b[34m     7:\t\u001b[0m\t\ttotal += 1\r\n\u001b[34m=>   8:\t\u001b[0m\t}()\r\n\u001b[34m     9:\t\u001b[0m\tfor _, num := range nums {\r\n\u001b[34m    10:\t\u001b[0m\t\tnumber, err := strconv.Atoi(num)\r\n\u001b[34m    11:\t\u001b[0m\t\tif err == nil {\r\n\u001b[34m    12:\t\u001b[0m\t\t\ttotal += number\r\n\u001b[34m    13:\t\u001b[0m\t\t}\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "p total", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.010285139083862305
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "7\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "set total = 6", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.00958704948425293
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "c", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0002148151397705078
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "PASS\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0017900466918945312
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Process 15172 has exited with status 0\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u0004", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "exit\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.002110004425048828
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Process 15172 has exited with status 0\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.011668920516967773
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r\n\u001b]0;jasonkeene@wat: ~/projects/dlv-demo/src/demo\u0007\u001b[01;32mjasonkeene@wat.local\u001b[00m \r\r\n\u001b[01;34m~/projects/dlv-demo/src/demo\u001b[00m\r\r\n$ ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "cd ..", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.011547088623046875
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r\n\u001b]0;jasonkeene@wat: ~/projects/dlv-demo/src\u0007\u001b[01;32mjasonkeene@wat.local\u001b[00m \r\r\n\u001b[01;34m~/projects/dlv-demo/src\u001b[00m\r\r\n$ ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "dlv debug", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.39028286933898926
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Type 'help' for list of commands.\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "b main.go ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u007f", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[1G(dlv) b main.go\u001b[0K\u001b[16G", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": ":12", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0017371177673339844
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Breakpoint 1 set at 0x2062 for main.main() ./main.go:12\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "c", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.060478925704956055
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "> main.main() ./main.go:12 (hits goroutine(1):1 total:1) (PC: 0x2062)\r\n\u001b[34m     7:\t\u001b[0m\t\"sync\"\r\n\u001b[34m     8:\t\u001b[0m\t\"time\"\r\n\u001b[34m     9:\t\u001b[0m)\r\n\u001b[34m    10:\t\u001b[0m\r\n\u001b[34m    11:\t\u001b[0mfunc main() {\r\n\u001b[34m=>  12:\t\u001b[0m\tfmt.Println(\"summing:\", os.Args[1:])\r\n\u001b[34m    13:\t\u001b[0m\tsum := demo.SumStrings(os.Args[1:]...)\r\n\u001b[34m    14:\t\u001b[0m\tfmt.Println(\"total:\", sum)\r\n\u001b[34m    15:\t\u001b[0m\r\n\u001b[34m    16:\t\u001b[0m\tfmt.Println(\"sleeping\")\r\n\u001b[34m    17:\t\u001b[0m\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "stack", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0007781982421875
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "0  0x0000000000002062 in main.main\r\n   at ./main.go:12\r\n1  0x000000000002a67b in runtime.main\r\n   at /usr/local/go/src/runtime/proc.go:111\r\n2  0x0000000000055b30 in runtime.goexit\r\n   at /usr/local/go/src/runtime/asm_amd64.s:1696\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "threads", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0621030330657959
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "* Thread 11267 at 0x2062 ./main.go:12 main.main\r\n  Thread 17159 at 0x56e0c /usr/local/go/src/runtime/sys_darwin_amd64.s:285 runtime.usleep\r\n  Thread 17411 at 0x56f3b /usr/local/go/src/runtime/sys_darwin_amd64.s:407 runtime.mach_semaphore_wait\r\n  Thread 17667 at 0x56f3b /usr/local/go/src/runtime/sys_darwin_amd64.s:407 runtime.mach_semaphore_wait\r\n  Thread 17923 at 0x56e0c /usr/local/go/src/runtime/sys_darwin_amd64.s:285 runtime.usleep\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "goroutines", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.07418298721313477
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "[4 goroutines]\r\n* Goroutine 1 - User: ./main.go:12 main.main (0x2062)\r\n  Goroutine 2 - User: /usr/local/go/src/runtime/proc.go:186 runtime.gopark (0x2aa53)\r\n  Goroutine 3 - User: /usr/local/go/src/runtime/proc.go:186 runtime.gopark (0x2aa53)\r\n  Goroutine 4 - User: /usr/local/go/src/runtime/mfinal.go:140 runtime.runfinq (0x14eb0)\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "ls 25", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.00051116943359375
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\u001b[34m  20:\t\u001b[0m\tgo func() {\r\n\u001b[34m  21:\t\u001b[0m\t\ttime.Sleep(2 * time.Second)\r\n\u001b[34m  22:\t\u001b[0m\t\twg.Done()\r\n\u001b[34m  23:\t\u001b[0m\t}()\r\n\u001b[34m  24:\t\u001b[0m\r\n\u001b[34m  25:\t\u001b[0m\tfmt.Println(\"waiting for sleep to finish\")\r\n\u001b[34m  26:\t\u001b[0m\twg.Wait()\r\n\u001b[34m  27:\t\u001b[0m\tfmt.Println(\"done\")\r\n\u001b[34m  28:\t\u001b[0m}\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "b 21", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0009810924530029297
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "Breakpoint 2 set at 0x2883 for main.main.func1() ./main.go:21\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "c", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0004830360412597656
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "summing: []\r\ntotal: 1\r\nsleeping\r\nwaiting for sleep to finish\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.05308794975280762
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "> main.main.func1() ./main.go:21 (hits goroutine(5):1 total:1) (PC: 0x2883)\r\n\u001b[34m    16:\t\u001b[0m\tfmt.Println(\"sleeping\")\r\n\u001b[34m    17:\t\u001b[0m\r\n\u001b[34m    18:\t\u001b[0m\tvar wg sync.WaitGroup\r\n\u001b[34m    19:\t\u001b[0m\twg.Add(1)\r\n\u001b[34m    20:\t\u001b[0m\tgo func() {\r\n\u001b[34m=>  21:\t\u001b[0m\t\ttime.Sleep(2 * time.Second)\r\n\u001b[34m    22:\t\u001b[0m\t\twg.Done()\r\n\u001b[34m    23:\t\u001b[0m\t}()\r\n\u001b[34m    24:\t\u001b[0m\r\n\u001b[34m    25:\t\u001b[0m\tfmt.Println(\"waiting for sleep to finish\")\r\n\u001b[34m    26:\t\u001b[0m\twg.Wait()\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "goroutines", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.07764315605163574
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "[5 goroutines]\r\n  Goroutine 1 - User: /usr/local/go/src/runtime/sema.go:43 sync.runtime_Semacquire (0x37d63)\r\n  Goroutine 2 - User: /usr/local/go/src/runtime/proc.go:186 runtime.gopark (0x2aa53)\r\n  Goroutine 3 - User: /usr/local/go/src/runtime/proc.go:186 runtime.gopark (0x2aa53)\r\n  Goroutine 4 - User: /usr/local/go/src/runtime/proc.go:186 runtime.gopark (0x2aa53)\r\n* Goroutine 5 - User: ./main.go:21 main.main.func1 (0x2883)\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "regs", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.030224084854125977
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "     Rip = 0x0000000000002883\r\n     Rsp = 0x000000c820031fa8\r\n     Rax = 0x0000000000000000\r\n     Rbx = 0x0000000000002870\r\n     Rcx = 0x000000c820001080\r\n     Rdx = 0x0000000000137c68\r\n     Rdi = 0x000000000002ff70\r\n     Rsi = 0x0000000000193500\r\n     Rbp = 0x0000000000000000\r\n      R8 = 0x0000000000193840\r\n      R9 = 0x0000000000000000\r\n     R10 = 0x0000000000000000\r\n     R11 = 0x0000000000000202\r\n     R12 = 0x0000000000000010\r\n     R13 = 0x0000000000135b20\r\n     R14 = 0x001fffffffffffff\r\n     R15 = 0x0000000000000039\r\n  Rflags = 0x0000000000000212\r\n      Cs = 0x000000000000002b\r\n      Fs = 0x0000000000000000\r\n      Gs = 0x0000000000000000\r\n Gs_base = 0x00000000001b6260\r\n\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "disassemble", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0026438236236572266
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "printing\r\nTEXT main.main.func1(SB) /Users/jasonkeene/projects/dlv-demo/src/main.go\r\n\tmain.go:20\t0x2870\t65488b0c25a0080000\tmov rcx, qword ptr gs:[0x8a0]\r\n\tmain.go:20\t0x2879\t483b6110\t\tcmp rsp, qword ptr [rcx+0x10]\r\n\tmain.go:20\t0x287d\t7624\t\t\tjbe 0x28a3\r\n\tmain.go:20\t0x287f\t4883ec08\t\tsub rsp, 0x8\r\n=>\tmain.go:21\t0x2883*\t48c7042400943577\tmov qword ptr [rsp], 0x77359400\r\n\tmain.go:21\t0x288b\te8c0020400\t\tcall 0x42b50 time.Sleep\r\n\tmain.go:22\t0x2890\t488b5c2410\t\tmov rbx, qword ptr [rsp+0x10]\r\n\tmain.go:22\t0x2895\t48891c24\t\tmov qword ptr [rsp], rbx\r\n\tmain.go:22\t0x2899\te822140700\t\tcall 0x73cc0 sync.(*WaitGroup).Done\r\n\tmain.go:23\t0x289e\t4883c408\t\tadd rsp, 0x8\r\n\tmain.go:23\t0x28a2\tc3\t\t\tret\r\n\tmain.go:20\t0x28a3\te8880e0500\t\tcall 0x53730 runtime.morestack_noctxt\r\n\tmain.go:20\t0x28a8\tebc6\t\t\tjmp 0x2870\r\n\tmain.go:20\t0x28aa\t0000\t\t\tadd byte ptr [rax], al\r\n\tmain.go:20\t0x28ac\t0000\t\t\tadd byte ptr [rax], al\r\n\tmain.go:20\t0x28ae\t0000\t\t\tadd byte ptr [rax], al\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "sources demo", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0004220008850097656
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "/Users/jasonkeene/projects/dlv-demo/src/demo/demo.go\r\n/Users/jasonkeene/projects/dlv-demo/src/main.go\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "vars demo", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.2736239433288574
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "demo.initdone\u00b7 = 2\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "ECHO", 
+      "data": "funcs demo", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\r", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0011060237884521484
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "demo.SumStrings\r\ndemo.SumStrings.func1\r\ndemo.init\r\n(dlv) ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u0004", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "exit\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.04818010330200195
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "\r\r\n\u001b]0;jasonkeene@wat: ~/projects/dlv-demo/src\u0007\u001b[01;32mjasonkeene@wat.local\u001b[00m \r\r\n\u001b[01;34m~/projects/dlv-demo/src\u001b[00m\r\r\n$ ", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "READ", 
+      "data": "\u0004", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "WRITE", 
+      "data": "exit\r\n", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }, 
+    {
+      "act": "PAUSE", 
+      "duration": 0.0024001598358154297
+    }, 
+    {
+      "act": "CLOSE", 
+      "term": "67d316186a8c4126ac3806f7da5093ef"
+    }
+  ], 
+  "shell": "/bin/bash"
+}
